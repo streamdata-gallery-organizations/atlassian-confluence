@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18743-atla
 x-kinRank: "9"
 x-alexaRank: "1627"
 tags: Atlassian Confluence
-created: "2018-05-22"
-modified: "2018-05-22"
+created: "2018-05-24"
+modified: "2018-05-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/atlassian-confluence/master/_listings/atlassian-confluence/apis.md
 specificationVersion: "0.14"
 apis: []
